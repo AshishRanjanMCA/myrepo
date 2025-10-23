@@ -1,0 +1,11 @@
+ body {
+  background-color: lightblue; /* Using a color name */
+}
+
+div {
+  background-color: #f0f8ff; /* Using a hexadecimal value */
+}
+
+p {
+  background-color: rgb(255, 99, 71); /* Using an RGB value */
+}
